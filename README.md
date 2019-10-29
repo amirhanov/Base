@@ -1,6 +1,6 @@
 # Video Background Controller iOS
 
-<img align="right" src="https://github.com/amirhanov/backgroundVideo/blob/master/Source/gif.gif" height="250"/>
+<img align="right" src="https://github.com/amirhanov/Base/blob/master/Данные/banner.png" width="100%">
 
 Hello everyone ✌️ 
 
