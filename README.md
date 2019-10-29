@@ -1,5 +1,3 @@
-# Video Background Controller iOS
-
 <img align="right" src="https://github.com/amirhanov/Base/blob/master/Данные/banner.png" width="100%">
 
 Hello everyone ✌️ 
@@ -12,9 +10,15 @@ If you like the project, do not forget to put star and follow me on GitHub:
 
 [![https://github.com/amirhanov](https://github.com/amirhanov/backgroundVideo/blob/master/Source/gitHub.svg)](https://github.com/amirhanov)
 
-## Requirements
+## Разделы
 
-Swift `4+`. Ready for use on iOS `9+`.
+I. Введение
+
+1. Знакомство с Playground. Открыть [файл](https://github.com/amirhanov/Base/blob/master/1. Знакомство%20с%20Playground.playground/Contents.swift) • Видео на [YouTube](https://youtu.be/_rjpcTC0cSw)
+
+II. Основные разделы
+
+1. Константы и переменные. Открыть [файл]()
 
 ## Example
 
