@@ -1,24 +1,21 @@
 <img align="right" src="https://github.com/amirhanov/Base/blob/master/Данные/banner.png" width="100%">
 
-Hello everyone ✌️ 
-
-Create a beautiful video background for your application. There are two methods in this project to achieve this goal:
-- First - natively with the help of player frameworks AVPlayer and AVFoundation. 
-- Second - with the help of the dependency manager Cocoa Pods.
-
-If you like the project, do not forget to put star and follow me on GitHub:
-
-[![https://github.com/amirhanov](https://github.com/amirhanov/backgroundVideo/blob/master/Source/gitHub.svg)](https://github.com/amirhanov)
 
 ## Разделы
 
 I. Введение
 
-1. Знакомство с Playground. Открыть [файл](https://github.com/amirhanov/Base/blob/master/1. Знакомство%20с%20Playground.playground/Contents.swift) • Видео на [YouTube](https://youtu.be/_rjpcTC0cSw)
+1. Знакомство с Playground. Открыть [файл](https://github.com/amirhanov/Base/tree/master/1.%20Знакомство%20с%20Playground.playground) • Видео на [YouTube](https://youtu.be/_rjpcTC0cSw)
 
 II. Основные разделы
 
-1. Константы и переменные. Открыть [файл]()
+1. Константы и переменные. Открыть [файл](https://github.com/amirhanov/Base/tree/master/2.%20Константы%20и%20переменные.playground)
+2. Типы данных. Открыть [файл](https://github.com/amirhanov/Base/tree/master/3.%20Типы%20данных.playground)
+3. Интерполяция строк. Открыть [файл](https://github.com/amirhanov/Base/tree/master/4.%20Интерполяция%20строк.playground)
+4. Базовые операторы. Открыть [файл](https://github.com/amirhanov/Base/tree/master/5.%20Базовые%20операторы.playground)
+5. Массивы. Открыть [файл](https://github.com/amirhanov/Base/tree/master/6.%20Массивы.playground)
+6. Словари. Открыть [файл](https://github.com/amirhanov/Base/tree/master/7.%20Словари.playground)
+7. Множества. Открыть [файл](https://github.com/amirhanov/Base/tree/master/8.%20Множества.playground)
 
 ## Example
 
