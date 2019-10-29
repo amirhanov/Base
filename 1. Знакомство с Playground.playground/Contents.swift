@@ -4,14 +4,14 @@ var str = "Hello, playground"
 
 let a = 10
 
-//MARK:- Create a simple cycle
+//MARK:- Создание простого цикла
 
 for i in 1...5 {
     
     print(i)
 }
 
-//MARK:- Create UI elements with UIKit
+//MARK:- Создание UI элемента
 
 let redView = UIView(frame: CGRect(x: 0, y: 0, width: 50, height: 50))
 let blueView = UIView(frame: CGRect(x: 0, y: 0, width: 25, height: 25))
