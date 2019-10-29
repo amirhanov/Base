@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/amirhanov/Base/blob/master/Данные/banner.png" width="100%">
 
-##
+&#160;
 
 ## Разделы
 
@@ -20,18 +20,14 @@ II. Основные разделы
 
 ## Поддержка
 
-Поддержите проект. Стать спонсором [Yandex.Money](http://bit.ly/2HivTkw) или [Rocket.Bank](http://bit.ly/2TsB8ov).
+Поддержите проект. Стать спонсором [Яндекс.Деньги](http://bit.ly/2HivTkw) или [Рокет Банк](http://bit.ly/2TsB8ov).
 
 ## Автор
 
 Email: studio@byidole.com
 
-[![https://www.youtube.com/channel/UChAjZCAZEqDSEbTAYOxGwSA?sub_confirmation=1](https://github.com/amirhanov/backgroundVideo/blob/master/Source/youTube.svg)](https://www.youtube.com/channel/UChAjZCAZEqDSEbTAYOxGwSA?sub_confirmation=1) 
-[![https://www.behance.net/amirhanov](https://github.com/amirhanov/backgroundVideo/blob/master/Source/behance.svg)](https://www.behance.net/amirhanov)
-[![https://apps.apple.com/ru/developer/id1278605063](https://github.com/amirhanov/backgroundVideo/blob/master/Source/appStore.svg)](https://apps.apple.com/ru/developer/id1278605063)
-
 ## Лицензия
 
-Available under the MIT license.
+Доступно по лицензии MIT.
 
 © IDOLE Studio.
