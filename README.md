@@ -27,6 +27,7 @@ II. Основные разделы
 15. Кортеж. [Файл](https://github.com/amirhanov/Base/tree/master/16.%20Кортеж.playground)
 16. Классы. [Файл](https://github.com/amirhanov/Base/tree/master/17.%20Классы.playground)
 17. Инициализаторы. [Файл](https://github.com/amirhanov/Base/tree/master/18.%20Инициализаторы.playground)
+18. Свойство Lazy. [Файл](https://github.com/amirhanov/Base/tree/master/19.%20Ленивые%20свойства.playground)
 
 ## Поддержка
 
