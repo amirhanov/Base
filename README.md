@@ -17,6 +17,16 @@ II. Основные разделы
 5. Массивы. [Файл](https://github.com/amirhanov/Base/tree/master/6.%20Массивы.playground)
 6. Словари. [Файл](https://github.com/amirhanov/Base/tree/master/7.%20Словари.playground)
 7. Множества. [Файл](https://github.com/amirhanov/Base/tree/master/8.%20Множества.playground)
+8. Оператор IF. [Файл](https://github.com/amirhanov/Base/tree/master/9.%20Оператор%20IF.playground)
+9. Инструкция Guard. [Файл](https://github.com/amirhanov/Base/tree/master/10.%20Инструкция%20Guard.playground)
+10. Инструкция Switch. [Файл](https://github.com/amirhanov/Base/tree/master/11.%20Инструкция%20Switch.playground)
+11. Цикл For-In. [Файл](https://github.com/amirhanov/Base/tree/master/12.%20Цикл%20For-In.playground)
+12. Цикл While, repeat-while. [Файл](https://github.com/amirhanov/Base/tree/master/13.%20Цикл%20While%2C%20repeat-while.playground)
+13. Функции. [Файл](https://github.com/amirhanov/Base/tree/master/14.%20Функции.playground)
+14. Замыкания и Closure. [Файл](https://github.com/amirhanov/Base/tree/master/15.%20Замыкания%20и%20Closure.playground)
+15. Кортеж. [Файл](https://github.com/amirhanov/Base/tree/master/16.%20Кортеж.playground)
+16. Классы. [Файл](https://github.com/amirhanov/Base/tree/master/17.%20Классы.playground)
+17. Инициализаторы. [Файл](https://github.com/amirhanov/Base/tree/master/18.%20Инициализаторы.playground)
 
 ## Поддержка
 
