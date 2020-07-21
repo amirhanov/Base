@@ -29,6 +29,7 @@ II. Основные разделы
 17. Инициализаторы. [Файл](https://github.com/amirhanov/Base/tree/master/18.%20Инициализаторы.playground)
 18. Свойство Lazy. [Файл](https://github.com/amirhanov/Base/tree/master/19.%20Ленивые%20свойства.playground)
 19. Псевдонимы типов. [Файл](https://github.com/amirhanov/Base/tree/master/20.%20Псевдонимы%20типов.playground)
+20. Протоколы. [Файл](https://github.com/amirhanov/Base/tree/master/21.%20Протоколы.playground)
 
 ## Поддержка
 
